@@ -1,0 +1,6 @@
+{
+  "name": "Snowflakes and Balloons",
+  "description": "A formal frontend application that allows users to trigger medium-sized falling snowflakes or floating balloons for a duration of 5 seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
